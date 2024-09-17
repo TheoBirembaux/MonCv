@@ -1,6 +1,6 @@
 h1{
-    color:aqua;
-    font-size: larger;
+    color:blue;
+    font-size: 50px;
 }
 
 li::marker{
@@ -9,4 +9,8 @@ li::marker{
 
 li{
     list-style:square;
+}
+
+body{
+    font-family: Verdana;
 }
